@@ -1,0 +1,5 @@
+total 1
+-rw-r--r-- 1 HP 197121 57 Aug  2 22:41 going_home
+-rw-r--r-- 1 HP 197121  0 Aug  2 22:43 long_formate
+The  rw--r--r-1- permisions HP-(file_owner) 19271=shows_group 57 and 0 shows the byte size
+Date and the n the file_name
